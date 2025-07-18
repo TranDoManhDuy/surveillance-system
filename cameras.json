@@ -1,0 +1,48 @@
+{
+  "cameras": [
+    {
+      "camera_id": "CAM001",
+      "source": "D:\\WorkSpace\\PersonPath22\\tracking-dataset\\dataset\\dataset1\\raw_data\\uid_vid_00000.mp4",
+      "position": "Position_1",
+      "enable_recording": true,
+      "recording_path": "./recordings",
+      "confidence_threshold": 0.4,
+      "social_distance_threshold": 2,
+      "warning_duration": 60,
+      "loop_video": true
+    },
+    {
+      "camera_id": "CAM002",
+      "source": "D:\\WorkSpace\\PersonPath22\\tracking-dataset\\dataset\\dataset1\\raw_data\\uid_vid_00035.mp4",
+      "position": "Position_2",
+      "enable_recording": true,
+      "recording_path": "./recordings",
+      "confidence_threshold": 0.4,
+      "social_distance_threshold": 2,
+      "warning_duration": 60,
+      "loop_video": true
+    },
+    {
+      "camera_id": "CAM003",
+      "source": "0",
+      "position": "Position_3",
+      "enable_recording": true,
+      "recording_path": "./recordings",
+      "confidence_threshold": 0.4,
+      "social_distance_threshold": 2,
+      "warning_duration": 60,
+      "loop_video": false
+    },
+    {
+      "camera_id": "CAM004",
+      "source": "",
+      "position": "Position_4",
+      "enable_recording": true,
+      "recording_path": "./recordings",
+      "confidence_threshold": 0.4,
+      "social_distance_threshold": 2,
+      "warning_duration": 60,
+      "loop_video": true
+    }
+  ]
+}

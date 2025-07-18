@@ -1,0 +1,18 @@
+2025-07-18 09:23:41,429 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-07-18 09:23:41,430 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2025-07-18 09:23:54,100 - SurveillanceSystem - INFO - Starting Multi-Camera Surveillance System with Batch Processing
+2025-07-18 09:23:54,103 - BatchProcessor - INFO - BatchProcessor started with batch_size=4
+2025-07-18 09:23:54,106 - Camera-CAM001 - INFO - Starting camera CAM001
+2025-07-18 09:23:54,111 - Camera-CAM002 - INFO - Starting camera CAM002
+2025-07-18 09:23:54,116 - Camera-CAM003 - INFO - Starting camera CAM003
+2025-07-18 09:23:54,122 - Camera-CAM004 - INFO - Starting camera CAM004
+2025-07-18 09:23:54,155 - Camera-CAM004 - ERROR - Cannot open camera source: 
+2025-07-18 09:23:54,255 - Camera-CAM001 - INFO - Opened video file: D:\WorkSpace\PersonPath22\tracking-dataset\dataset\dataset1\raw_data\uid_vid_00000.mp4, Total frames: 428, FPS: 23
+2025-07-18 09:23:54,365 - Camera-CAM002 - INFO - Opened video file: D:\WorkSpace\PersonPath22\tracking-dataset\dataset\dataset1\raw_data\uid_vid_00035.mp4, Total frames: 673, FPS: 24
+2025-07-18 09:23:58,376 - SurveillanceSystem - INFO - Stopping surveillance system
+2025-07-18 09:23:58,454 - BatchProcessor - INFO - BatchProcessor stopped
+2025-07-18 09:23:58,457 - Camera-CAM001 - INFO - Stopping camera CAM001
+2025-07-18 09:23:58,457 - Camera-CAM002 - INFO - Stopping camera CAM002
+2025-07-18 09:23:58,459 - Camera-CAM003 - INFO - Stopping camera CAM003
+2025-07-18 09:23:58,461 - Camera-CAM004 - INFO - Stopping camera CAM004
+2025-07-18 09:24:03,603 - SurveillanceSystem - INFO - Surveillance system stopped
